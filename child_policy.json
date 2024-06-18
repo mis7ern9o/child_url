@@ -1,0 +1,17 @@
+{
+  "ShowHomeButton": true,
+  "BrowserAddPersonEnabled": false,
+  "AllowDeletingBrowserHistory": false,
+  "BrowserSignin":2,
+  "BrowserGuestModeEnabled": false,
+  "PasswordManagerEnabler": false,
+  "SafeSitesFilterBehavior": 1,
+  "URLAllowlist": [
+    "https://fr.khanacademy.org/"
+  ],
+  "URLBlocklist": [
+    "*"   
+  ]
+
+
+}
